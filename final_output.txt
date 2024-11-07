@@ -1,0 +1,764 @@
+Argentina,Ayacucho	Amex
+Australia,Anglesea	Mastercard
+Australia,Avalon	Mastercard
+Australia,Birkdale	Mastercard
+Australia,Brisbane	Visa
+Australia,Bunbury	Mastercard
+Australia,Burpengary	Visa
+Australia,Charlestown	Amex
+Australia,Coomera	Mastercard
+Australia,Echuca	Visa
+Australia,Gisborne	Visa
+Australia,Gold Coast	Visa
+Australia,Griffith	Mastercard
+Australia,Lindfield	Visa
+Australia,Lyndoch	Visa
+Australia,Melbourne	Visa
+Australia,Mona Vale	Visa
+Australia,Nerang	Visa
+Australia,Parramatta	Visa
+Australia,Perth	Visa
+Australia,Perth City	Visa
+Australia,Rockingham	Mastercard
+Australia,Scamander	Visa
+Australia,South Melbourne	Mastercard
+Australia,Sydney	Mastercard
+Australia,The Grange	Visa
+Australia,Vaucluse	Diners
+Australia,Warwick	Visa
+Australia,Wollongong	Visa
+Australia,Worongary	Mastercard
+Austria,Altlengbach	Visa
+Austria,Inner City	Visa
+Austria,Klosterneuburg	Mastercard
+Austria,Neustift am Walde	Mastercard
+Austria,Vienna	Visa
+Austria,WalcProduct3ee	Mastercard
+Bahrain,Al 'Adliyah	Visa
+Belgium,Antwerpen	Visa
+Belgium,Brussels	Visa
+Belgium,Bruxelles	Amex
+Belgium,La Louviere	Visa
+Bermuda,Hamilton	Visa
+Brazil,Campinas	Mastercard
+Brazil,Fortaleza	Mastercard
+Brazil,Mafra	Amex
+Brazil,Porto Alegre	Visa
+Brazil,Vespasiano	Mastercard
+Bulgaria,Zagore	Mastercard
+Canada,Ajax	Mastercard
+Canada,Alcona	Visa
+Canada,Alliston	Visa
+Canada,Anse Comeau	Visa
+Canada,Belleville	Visa
+Canada,Burnaby	Diners
+Canada,Calgary	Visa
+Canada,Carcross	Mastercard
+Canada,Cartierville	Visa
+Canada,Comox	Visa
+Canada,Cornwall	Visa
+Canada,Creemore	Visa
+Canada,Edmonton	Mastercard
+Canada,Fort Saint James	Diners
+Canada,Guelph	Visa
+Canada,Hamilton	Visa
+Canada,Ile-Perrot	Mastercard
+Canada,Kanata	Visa
+Canada,Kelowna	Diners
+Canada,King City	Visa
+Canada,Maple Ridge District Municipality	Visa
+Canada,Mission	Mastercard
+Canada,Montreal	Diners
+Canada,Montreal-Nord	Visa
+Canada,Mount Forest	Visa
+Canada,North Bay	Visa
+Canada,North Vancouver	Visa
+Canada,Okotoks	Amex
+Canada,Orillia	Mastercard
+Canada,Ottawa	Visa
+Canada,Powell River	Mastercard
+Canada,Prince Albert	Diners
+Canada,Red Deer	Visa
+Canada,Saint Catharines	Visa
+Canada,Sainte-Therese-de-Blainville	Visa
+Canada,Saskatoon	Amex
+Canada,Simcoe	Mastercard
+Canada,Three Hills	Mastercard
+Canada,Toronto	Visa
+Canada,Tsawwassen	Visa
+Canada,Vancouver	Mastercard
+Canada,Warwick	Visa
+Canada,Waterford	Visa
+Canada,Winnipeg	Mastercard
+Canada,Yellowknife	Diners
+Cayman Isls,George Town	Mastercard
+China,Taicheng	Visa
+Costa Rica,Santa Barbaraa	Diners
+Czech Republic,Hradec Kralove	Visa
+Czech Republic,Prague	Visa
+Czech Republic,Suchdol	Visa
+Denmark,Brondby Strand	Mastercard
+Denmark,Charlottenlund	Visa
+Denmark,Hellerup	Mastercard
+Denmark,Helsingor	Visa
+Denmark,Holte	Mastercard
+Denmark,Kjobenhavn	Visa
+Denmark,Klampenborg	Visa
+Denmark,Kobenhavn	Mastercard
+Denmark,Laasby	Visa
+Denmark,Lyngby	Mastercard
+Denmark,Nakskov	Visa
+Denmark,Rungsted	Visa
+Denmark,Soro	Visa
+Dominican Republic,Santo Domingo City	Diners
+Finland,Kuopio	Mastercard
+Finland,Lahti	Mastercard
+France,Aix-en-Provence	Visa
+France,Antibes	Visa
+France,Arc-et-Senans	Visa
+France,Besancon	Diners
+France,Biot	Mastercard
+France,Brulon	Amex
+France,Chamonix-Mont-Blanc	Visa
+France,Chatou	Visa
+France,Evires	Mastercard
+France,Ferney-Voltaire	Amex
+France,Guer	Amex
+France,Hagen	Diners
+France,Ornex	Visa
+France,Paris	Visa
+France,Rambouillet	Visa
+France,Rennes	Visa
+France,Roquefort	Diners
+France,Rouen	Visa
+France,Saint-Cergues	Mastercard
+France,Strasbourg	Visa
+France,Veigy-Foncenex	Mastercard
+Germany,Bergen	Diners
+Germany,Berlin	Mastercard
+Germany,Braunschweig	Visa
+Germany,Donauworth	Visa
+Germany,Dresden	Mastercard
+Germany,Ehingen an der Donau	Mastercard
+Germany,Glan-Munchweiler	Mastercard
+Germany,Gries	Visa
+Germany,Grossbodungen	Diners
+Germany,Hamburg	Mastercard
+Germany,Hannover	Mastercard
+Germany,Hofheim am Taunus	Mastercard
+Germany,Ingelheim-Mitte	Visa
+Germany,Ludwigsburg	Visa
+Germany,Mettlach	Mastercard
+Germany,Munchen	Amex
+Germany,Munchengosserstadt	Visa
+Germany,Munich	Mastercard
+Germany,Oldenburg	Visa
+Germany,Stuttgart	Diners
+Germany,Telgte	Mastercard
+Germany,Wiesbaden	Amex
+Greece,Athina	Visa
+Guatemala,Atlantida	Visa
+Hong Kong,Hong Kong	Mastercard
+Hungary,Budaors	Visa
+Hungary,Chepel	Diners
+Hungary,Kecskemet	Mastercard
+Iceland,Thorlakshofn	Visa
+India,Gurgaon	Amex
+India,Hyderabad	Diners
+Ireland,Arklow	Visa
+Ireland,Baile Atha Bui	Mastercard
+Ireland,Ballincollig	Visa
+Ireland,Ballyneety	Visa
+Ireland,Ballynora	Diners
+Ireland,Bandon	Visa
+Ireland,Blackrock	Visa
+Ireland,Blarney	Visa
+Ireland,Cabinteely	Mastercard
+Ireland,Castlebar	Visa
+Ireland,Castleknock	Visa
+Ireland,Clondalkin	Visa
+Ireland,Clonmel	Visa
+Ireland,Clontarf	Diners
+Ireland,Cork	Diners
+Ireland,Drogheda	Visa
+Ireland,Dun Laoghaire	Visa
+Ireland,Foxrock	Visa
+Ireland,Harold's Cross	Mastercard
+Ireland,Julianstown	Diners
+Ireland,Kilcornan	Visa
+Ireland,Killiney	Mastercard
+Ireland,Kinsaley	Diners
+Ireland,Malahide	Visa
+Ireland,Mornington	Visa
+Ireland,Mullingar	Visa
+Ireland,Navan	Mastercard
+Ireland,Newcastle	Visa
+Ireland,Newmarket	Mastercard
+Ireland,Rathfarnham	Mastercard
+Ireland,Rathgar	Mastercard
+Ireland,Saggart	Visa
+Ireland,Sandymount	Mastercard
+Ireland,Santry	Visa
+Ireland,Shankill	Visa
+Ireland,Sneem	Visa
+Ireland,Sutton	Diners
+Ireland,Thurles	Visa
+Ireland,Tramore	Visa
+Ireland,Urlingford	Diners
+Ireland,Waterford	Visa
+Israel,Tel Aviv	Mastercard
+Italy,Cagliari	Mastercard
+Italy,Firenze	Visa
+Italy,Florence	Mastercard
+Italy,Grosseto	Visa
+Italy,Lipari	Diners
+Italy,Lucca	Diners
+Italy,Milan	Visa
+Italy,Milano	Visa
+Italy,Ponte San Nicolo	Amex
+Italy,Rome	Visa
+Italy,Vicenza	Mastercard
+Japan,Setagaya	Visa
+Japan,Tokyo	Amex
+Jersey,Gorey	Diners
+Kuwait,Mushrif	Amex
+Latvia,Vecmilgravis	Mastercard
+Luxembourg,Gasperich	Visa
+Malaysia,Kuala Lumpur	Mastercard
+Malta,Nadur	Visa
+Malta,San Pawl tat-Targa	Visa
+Mauritius,Black River	Visa
+Moldova,Bubuieci	Visa
+Monaco,Monaco	Visa
+Monaco,Monte-Carlo	Visa
+Netherlands,Amsterdam	Mastercard
+Netherlands,Badhoevedorp	Mastercard
+Netherlands,Castricum	Visa
+Netherlands,Den Haag	Mastercard
+Netherlands,Ede	Visa
+Netherlands,Eindhoven	Amex
+Netherlands,Glimmen	Mastercard
+Netherlands,Groningen	Mastercard
+Netherlands,Hilversum	Visa
+Netherlands,Naarden	Amex
+Netherlands,Oegstgeest	Mastercard
+Netherlands,Utrecht	Mastercard
+New Zealand,Auckland	Visa
+New Zealand,Hawera	Visa
+New Zealand,New Plymouth City	Visa
+New Zealand,Torbay	Visa
+New Zealand,Waiau Pa	Visa
+New Zealand,Waiwera	Visa
+Norway,Aardal	Visa
+Norway,Aasgaardstrand	Visa
+Norway,Bergen	Visa
+Norway,Holmenkollen	Visa
+Norway,Horten	Visa
+Norway,Nordstrand	Diners
+Norway,Oslo	Visa
+Norway,Sola	Mastercard
+Norway,Stavanger	Mastercard
+Norway,Stavenger	Mastercard
+Norway,Tranby	Visa
+Norway,Vossevangen	Visa
+Philippines,Baluan	Mastercard
+Philippines,Borja	Visa
+Poland,Gdansk	Visa
+Poland,Pruszkow	Visa
+Romania,Voluntari	Mastercard
+Russia,Tsaritsyno	Amex
+South Africa,Benoni	Mastercard
+South Africa,Centurion	Visa
+South Africa,Durban	Mastercard
+South Africa,Pietermaritzburg	Visa
+South Africa,Roodepoort	Mastercard
+South Korea,Songnae-dong	Visa
+Spain,Alcobendas	Visa
+Spain,Barcelona	Amex
+Spain,Basauri	Visa
+Spain,Churra	Visa
+Spain,El Escorial	Visa
+Spain,Gava	Amex
+Spain,La Alberca	Amex
+Spain,Madrid	Mastercard
+Spain,Sevilla	Mastercard
+Sweden,Danderyd	Amex
+Sweden,Djurgarden	Visa
+Sweden,Lidingo	Amex
+Sweden,Malmo	Visa
+Sweden,Nacka	Amex
+Sweden,Norrkoping	Visa
+Sweden,Saltsjobaden	Mastercard
+Sweden,Stockholm	Mastercard
+Sweden,Stocksund	Visa
+Sweden,Taby	Mastercard
+Sweden,Tierp	Mastercard
+Sweden,Umea	Visa
+Switzerland,Anieres	Visa
+Switzerland,Aubonne	Mastercard
+Switzerland,Baden	Mastercard
+Switzerland,Balgach	Mastercard
+Switzerland,Basel	Visa
+Switzerland,Begnins	Mastercard
+Switzerland,Bellinzona	Amex
+Switzerland,Berikon	Visa
+Switzerland,Bern	Visa
+Switzerland,Binningen	Visa
+Switzerland,Carouge	Visa
+Switzerland,Freienbach	Visa
+Switzerland,Geneve	Mastercard
+Switzerland,Gingins	Diners
+Switzerland,Kloten	Mastercard
+Switzerland,Langnau	Visa
+Switzerland,Lausanne	Mastercard
+Switzerland,Massagno	Visa
+Switzerland,Morges	Mastercard
+Switzerland,Neuchatel	Visa
+Switzerland,Oberwil	Mastercard
+Switzerland,Plan-les-Ouattes	Visa
+Switzerland,Regensdorf	Visa
+Switzerland,Ruschlikon	Visa
+Switzerland,Ruti	Visa
+Switzerland,Trelex	Visa
+Switzerland,Versoix	Amex
+Switzerland,Vesenaz	Mastercard
+Switzerland,Villars	Mastercard
+Switzerland,Zug	Mastercard
+Switzerland,Zumikon	Visa
+Switzerland,Zurich	Mastercard
+Thailand,Ban Khlong Sip	Mastercard
+Thailand,Phuket	Visa
+The Bahamas,Freeport City	Visa
+The Bahamas,Killarney	Visa
+Turkey,Beykoz	Visa
+Turkey,Istanbul	Visa
+Turkey,Izmir	Visa
+Turkey,Kemerburgaz	Visa
+Turkey,Tesvikiye	Visa
+Turkey,Zekeriyakoy	Visa
+Ukraine,Irpin'	Visa
+United Arab Emirates,Abu Dhabi	Diners
+United Arab Emirates,Dubai	Visa
+United Arab Emirates,Jumeira	Visa
+United Kingdom,Abbey Town	Visa
+United Kingdom,Aberdeen	Visa
+United Kingdom,Ashford	Amex
+United Kingdom,Banbury	Visa
+United Kingdom,Basildon	Mastercard
+United Kingdom,Basingstoke	Diners
+United Kingdom,Belfast	Visa
+United Kingdom,Berkeswell	Visa
+United Kingdom,Birmingham	Diners
+United Kingdom,Bishop Auckland	Visa
+United Kingdom,Bishops Stortford	Visa
+United Kingdom,Blackpool	Diners
+United Kingdom,Bolton	Visa
+United Kingdom,Bournemouth	Mastercard
+United Kingdom,Brighton	Visa
+United Kingdom,Calne	Visa
+United Kingdom,Canterbury	Mastercard
+United Kingdom,Cardiff	Visa
+United Kingdom,Chalfont Saint Peter	Visa
+United Kingdom,Cheltenham	Mastercard
+United Kingdom,Chichester	Mastercard
+United Kingdom,Claygate	Amex
+United Kingdom,Cobham	Visa
+United Kingdom,Coventry	Mastercard
+United Kingdom,Dumbleton	Mastercard
+United Kingdom,Edinburgh	Visa
+United Kingdom,Exeter	Visa
+United Kingdom,Gosport	Visa
+United Kingdom,Guildford	Visa
+United Kingdom,Haverhill	Diners
+United Kingdom,Headley	Mastercard
+United Kingdom,Helens Bay	Mastercard
+United Kingdom,High Wycombe	Diners
+United Kingdom,Huddersfield	Diners
+United Kingdom,Kemble	Visa
+United Kingdom,Kidderminster	Mastercard
+United Kingdom,Kirriemuir	Visa
+United Kingdom,Leamington Spa	Diners
+United Kingdom,Leicester	Visa
+United Kingdom,Leighton Buzzard	Visa
+United Kingdom,Liverpool	Visa
+United Kingdom,London	Visa
+United Kingdom,Lurgan	Visa
+United Kingdom,Maidstone	Visa
+United Kingdom,Manchester	Visa
+United Kingdom,Milton Keynes	Mastercard
+United Kingdom,New Malden	Visa
+United Kingdom,Newburgh	Mastercard
+United Kingdom,Newbury	Mastercard
+United Kingdom,Oxford	Visa
+United Kingdom,Penclawdd	Visa
+United Kingdom,Perth	Visa
+United Kingdom,Petworth	Visa
+United Kingdom,Reading	Diners
+United Kingdom,Redruth	Visa
+United Kingdom,Saffron Walden	Diners
+United Kingdom,Saint Albans	Visa
+United Kingdom,Shenfield	Visa
+United Kingdom,Sidcup	Mastercard
+United Kingdom,Slough	Visa
+United Kingdom,Southampton	Mastercard
+United Kingdom,Stockton	Visa
+United Kingdom,Stockton-on-Tees	Visa
+United Kingdom,Sutton Valence	Visa
+United Kingdom,Tunbridge Wells	Mastercard
+United Kingdom,Warlingham	Mastercard
+United Kingdom,Watford	Diners
+United Kingdom,Wigan	Visa
+United Kingdom,Worcester	Diners
+United Kingdom,York	Visa
+United States,Accokeek                    	Amex
+United States,Alexandria                  	Amex
+United States,Allen                       	Visa
+United States,Aloma                       	Visa
+United States,Alpharetta                  	Amex
+United States,Alpine                      	Diners
+United States,Altadena                    	Visa
+United States,Amelia Island               	Visa
+United States,Anchorage                   	Amex
+United States,Andover                     	Mastercard
+United States,Ankeny                      	Visa
+United States,Ann Arbor                   	Visa
+United States,Anthem                      	Amex
+United States,Arlington                   	Visa
+United States,Ashburn                     	Visa
+United States,Astoria                     	Mastercard
+United States,Atascadero                  	Amex
+United States,Atchison                    	Visa
+United States,Athens                      	Visa
+United States,Atlanta	Visa
+United States,Atlanta                     	Amex
+United States,Augusta                     	Mastercard
+United States,Austin                      	Visa
+United States,Ball Ground                 	Mastercard
+United States,Baltimore                   	Visa
+United States,Baytown                     	Visa
+United States,Beachwood                   	Mastercard
+United States,Bedford Corners             	Amex
+United States,Belgrade                    	Visa
+United States,Belmont                     	Mastercard
+United States,Beverly Hills               	Visa
+United States,Billings                    	Visa
+United States,Birmingham                  	Visa
+United States,Bloomfield                  	Visa
+United States,Bluffton                    	Amex
+United States,Boca Raton                  	Amex
+United States,Boise                       	Diners
+United States,Boyceville                  	Visa
+United States,Brentwood                   	Visa
+United States,Bridgewater                 	Mastercard
+United States,Bristol                     	Visa
+United States,Broadlands                  	Visa
+United States,Brookline                   	Visa
+United States,Brooklyn                    	Diners
+United States,Bryceville                  	Mastercard
+United States,Buffalo                     	Mastercard
+United States,Buffalo Grove               	Mastercard
+United States,Burbank                     	Diners
+United States,Burr Oak                    	Mastercard
+United States,Cahaba Heights              	Visa
+United States,Cambridge                   	Visa
+United States,Cartersburg                 	Visa
+United States,Castle Rock                 	Mastercard
+United States,Centennial                  	Visa
+United States,Centerport                  	Amex
+United States,Chadds Ford                 	Visa
+United States,Chandler                    	Diners
+United States,Chaska                      	Visa
+United States,Chelmsford                  	Mastercard
+United States,Chester                     	Visa
+United States,Chicago                     	Visa
+United States,Chiefland                   	Mastercard
+United States,Chula Vista                 	Visa
+United States,Cincinnati                  	Visa
+United States,Clinton                     	Mastercard
+United States,Clyde Hill                  	Mastercard
+United States,Coconut Grove               	Mastercard
+United States,College Park                	Visa
+United States,Columbus                    	Visa
+United States,Coppell                     	Mastercard
+United States,Coral Gables                	Mastercard
+United States,Corbin City                 	Mastercard
+United States,Corrales                    	Visa
+United States,Cos Cob                     	Visa
+United States,Cranberry Twp               	Amex
+United States,Croton On Hudson            	Visa
+United States,Cumming                     	Amex
+United States,Cypress                     	Mastercard
+United States,Dallas                      	Visa
+United States,Dammeron Valley             	Visa
+United States,Danville                    	Amex
+United States,Davis                       	Visa
+United States,Delray Beach                	Visa
+United States,Deptford                    	Mastercard
+United States,Dickerson                   	Visa
+United States,Downey                      	Visa
+United States,Downingtown                 	Visa
+United States,Dryden                      	Visa
+United States,Durham                      	Visa
+United States,Eagan                       	Visa
+United States,Eagle                       	Visa
+United States,Edgewood                    	Visa
+United States,Edinburg                    	Visa
+United States,Ely                         	Amex
+United States,Encinitas                   	Amex
+United States,Engleside                   	Mastercard
+United States,Englewood                   	Mastercard
+United States,Escondido                   	Visa
+United States,Ewa Beach                   	Mastercard
+United States,Fairbanks                   	Visa
+United States,Fairfax                     	Visa
+United States,Fairfield                   	Mastercard
+United States,Falmouth                    	Visa
+United States,Farmingtn Hls               	Mastercard
+United States,Farmington	Visa
+United States,Fayetteville                	Mastercard
+United States,Flossmoor                   	Visa
+United States,Flower Mound                	Visa
+United States,Floyds Knobs                	Mastercard
+United States,Fort Lauderdale             	Visa
+United States,Fort Oglethorpe             	Diners
+United States,Fountain Hls                	Amex
+United States,Fremont                     	Visa
+United States,Fresno                      	Mastercard
+United States,Fullerton                   	Mastercard
+United States,Gainesville                 	Visa
+United States,Genoa                       	Mastercard
+United States,Germantown                  	Mastercard
+United States,Gladwyne                    	Visa
+United States,Glendora                    	Visa
+United States,Glenn Dale                  	Mastercard
+United States,Gonzaga Univ                	Visa
+United States,Great Falls	Visa
+United States,Great Falls                 	Mastercard
+United States,Greenville                  	Mastercard
+United States,Hampton                     	Diners
+United States,Haymarket                   	Mastercard
+United States,Hendersonville              	Mastercard
+United States,Herndon                     	Amex
+United States,Hghlnds Ranch               	Visa
+United States,Hilton Head                 	Mastercard
+United States,Hollywood                   	Mastercard
+United States,Holmdel                     	Amex
+United States,Hon                         	Amex
+United States,Hono                        	Diners
+United States,Honolulu                    	Mastercard
+United States,Hoschton                    	Diners
+United States,Houston                     	Mastercard
+United States,Howell                      	Mastercard
+United States,Humble                      	Visa
+United States,Huntersville                	Visa
+United States,Huntington                  	Mastercard
+United States,Huntington Beach            	Mastercard
+United States,Irvine                      	Mastercard
+United States,Irving                      	Mastercard
+United States,Issaquah                    	Visa
+United States,Ithaca                      	Diners
+United States,Jacksonville                	Visa
+United States,Jamaica Plain               	Amex
+United States,Jamestown                   	Visa
+United States,Joppa	Visa
+United States,Kailua Kona                 	Visa
+United States,Kapaa                       	Visa
+United States,Katy                        	Visa
+United States,Kearns                      	Visa
+United States,Keller                      	Mastercard
+United States,Kenmore                     	Visa
+United States,Kennett Square              	Visa
+United States,Killeen                     	Mastercard
+United States,Knoxville                   	Visa
+United States,La Crescenta                	Mastercard
+United States,Ladera Ranch                	Visa
+United States,Lafayette                   	Mastercard
+United States,Lake Mahopac                	Mastercard
+United States,Lake Ronkonkoma	Mastercard
+United States,Lakeside                    	Mastercard
+United States,Lakeville                   	Mastercard
+United States,Lakewood Village            	Visa
+United States,Larchmont                   	Visa
+United States,Las Vegas                   	Amex
+United States,Lebanon                     	Mastercard
+United States,Leesburg                    	Visa
+United States,Lemont                      	Visa
+United States,Lexington                   	Visa
+United States,Libertyville                	Visa
+United States,Lincoln                     	Mastercard
+United States,Lindenhurst                 	Mastercard
+United States,Lititz                      	Visa
+United States,Little Compton              	Visa
+United States,Little Silver               	Amex
+United States,Los Angeles                 	Amex
+United States,Los Gatos                   	Amex
+United States,Louisville                  	Mastercard
+United States,MT Pleasant                 	Diners
+United States,Mableton                    	Visa
+United States,Madison                     	Visa
+United States,Mahopac                     	Mastercard
+United States,Malibu                      	Amex
+United States,Manhattan                   	Visa
+United States,Manteno                     	Mastercard
+United States,Margate                     	Visa
+United States,Marietta                    	Amex
+United States,Martin                      	Mastercard
+United States,Mashpee                     	Visa
+United States,Mc Lean                     	Visa
+United States,Mechanics Grove             	Visa
+United States,Memphis                     	Diners
+United States,Miami                       	Amex
+United States,Miami Beach                 	Amex
+United States,Mickleton                   	Visa
+United States,Mid City West               	Amex
+United States,Midland Park                	Mastercard
+United States,Milford                     	Mastercard
+United States,Mililani                    	Amex
+United States,Minneapolis                 	Visa
+United States,Montgomery                  	Mastercard
+United States,Morrison                    	Diners
+United States,Morro Bay                   	Visa
+United States,Morton                      	Visa
+United States,N Java                      	Visa
+United States,N Woodmere                  	Diners
+United States,NYC                         	Mastercard
+United States,Naples                      	Mastercard
+United States,Nashville                   	Visa
+United States,New Rochelle                	Mastercard
+United States,New York                    	Diners
+United States,Newton                      	Visa
+United States,Newtown                     	Visa
+United States,Norcross                    	Visa
+United States,Norfolk                     	Amex
+United States,North Brunswick             	Visa
+United States,North Caldwell              	Visa
+United States,North Eastham               	Visa
+United States,North Tustin                	Visa
+United States,Norwalk                     	Amex
+United States,Oak Park                    	Visa
+United States,Old Greenwich               	Mastercard
+United States,Olive Branch                	Visa
+United States,Ooltewah                    	Diners
+United States,Oostburg                    	Visa
+United States,Orlando                     	Amex
+United States,Ottawa Hills                	Amex
+United States,Overland                    	Visa
+United States,Owensboro                   	Mastercard
+United States,Owings Mills                	Visa
+United States,Pacific Beach               	Mastercard
+United States,Pacific Palisades           	Mastercard
+United States,Parkland                    	Visa
+United States,Parkville                   	Visa
+United States,Pasadena                    	Mastercard
+United States,Pembroke Pines              	Visa
+United States,Penngrove                   	Amex
+United States,Pensacola                   	Diners
+United States,Peoria                      	Mastercard
+United States,Phoenix                     	Mastercard
+United States,Pittsboro                   	Visa
+United States,Pittsfield                  	Amex
+United States,Plantation                  	Visa
+United States,Pls Vrds Est                	Visa
+United States,Portland                    	Visa
+United States,Portola Valley              	Mastercard
+United States,Potomac Falls               	Amex
+United States,Poughkeepsie                	Mastercard
+United States,Princeton                   	Mastercard
+United States,Princeville                 	Visa
+United States,Queen Creek                 	Mastercard
+United States,Rancho Cordova              	Visa
+United States,Random Lake                 	Visa
+United States,Rayford                     	Visa
+United States,Redondo Beach               	Amex
+United States,Reston                      	Amex
+United States,Richmond                    	Visa
+United States,Ridgefield                  	Mastercard
+United States,Ringgold                    	Visa
+United States,Riverside                   	Visa
+United States,Roanoke                     	Mastercard
+United States,Rochester                   	Visa
+United States,Rochester Hills             	Visa
+United States,Rock Hill                   	Visa
+United States,Rockville                   	Amex
+United States,Rodeo                       	Amex
+United States,Rogers                      	Visa
+United States,Rowayton                    	Amex
+United States,Royal Oak                   	Visa
+United States,Sacramento                  	Visa
+United States,Saddle Brook                	Visa
+United States,Sag Harbor                  	Diners
+United States,Saint Charles               	Visa
+United States,Saint Paul                  	Mastercard
+United States,Saint Petersburg            	Amex
+United States,Salt Lake City              	Diners
+United States,Sammamish                   	Mastercard
+United States,San Anselmo                 	Amex
+United States,San Antonio                 	Diners
+United States,San Carlos                  	Mastercard
+United States,San Diego                   	Visa
+United States,San Francisco               	Amex
+United States,San Jose                    	Visa
+United States,San Mateo                   	Amex
+United States,San Ramon                   	Visa
+United States,Sandy Plains                	Amex
+United States,Sandy Springs               	Amex
+United States,Santa Monica                	Diners
+United States,Scottsdale                  	Mastercard
+United States,Seattle                     	Visa
+United States,Sebastopol                  	Visa
+United States,Senatobia                   	Visa
+United States,Shavano Park                	Mastercard
+United States,Shorewood                   	Diners
+United States,Shreveport                  	Mastercard
+United States,Silver Spring               	Visa
+United States,Simpsonville                	Visa
+United States,Sitka                       	Visa
+United States,Skaneateles                 	Amex
+United States,South Jordan                	Visa
+United States,South Palm Beach            	Amex
+United States,South Waterford             	Mastercard
+United States,Southlake                   	Visa
+United States,Spring Lake Park            	Visa
+United States,St Augustine                	Visa
+United States,St Thomas                   	Visa
+United States,Stamford                    	Amex
+United States,Staten Island               	Diners
+United States,Statesville                 	Visa
+United States,Sterling                    	Visa
+United States,Sugar Land                  	Visa
+United States,Sunnyvale                   	Visa
+United States,Superior                    	Mastercard
+United States,Suwanee                     	Mastercard
+United States,Swampscott                  	Mastercard
+United States,Temecula                    	Amex
+United States,Tenafly                     	Amex
+United States,Terrell Hills               	Visa
+United States,The Woodlands               	Mastercard
+United States,Trumansburg                 	Visa
+United States,Valley Center               	Visa
+United States,Victor                      	Diners
+United States,Vienna                      	Visa
+United States,Villanova                   	Amex
+United States,Vista                       	Visa
+United States,W Lebanon                   	Mastercard
+United States,Waldorf                     	Mastercard
+United States,Wall                        	Diners
+United States,Walnut Creek                	Mastercard
+United States,Wantagh	Visa
+United States,Warwick                     	Visa
+United States,Washington                  	Amex
+United States,Washington Township         	Mastercard
+United States,West Hills                  	Diners
+United States,West Orange                 	Visa
+United States,Westminster                 	Visa
+United States,Weston                      	Visa
+United States,Wheaton                     	Visa
+United States,White House                 	Mastercard
+United States,Wilmington                  	Mastercard
+United States,Winchester                  	Visa
+United States,Winter Haven                	Diners
+United States,Winter Spgs                 	Amex
+United States,Wisconsin Rapids            	Diners
+United States,Woodland Hills              	Mastercard
+United States,Woodsboro                   	Visa
+United States,Yorba Linda                 	Visa
