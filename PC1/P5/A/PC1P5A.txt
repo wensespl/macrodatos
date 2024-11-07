@@ -1,0 +1,250 @@
+Afghanistan	Drama
+Albania	Drama
+Algeria	Drama
+American Samoa	 Drama
+Andorra	Comedy
+Angola	Action
+Anguilla	Thriller
+Antarctica	 Family
+Antigua and Barbuda	Action
+Argentina	 Comedy
+Armenia	Drama
+Aruba	Thriller
+Australia	 War
+Austria	Action
+Azerbaijan	 Romance
+Bahamas	 Comedy
+Bahrain	Drama
+Bangladesh	 Comedy
+Barbados	 Horror
+Belarus	 War
+Belgium	Action
+Belize	Drama
+Benin	Documentary
+Bermuda	Mystery
+Bhutan	Drama
+Bolivia	Comedy
+Bosnia and Herzegovina	 Family
+Botswana	 Comedy
+Bouvet Island	Documentary
+Brazil	 Comedy
+British Indian Ocean Territory	Documentary
+British Virgin Islands	Drama
+Brunei Darussalam	Drama
+Bulgaria	 Thriller
+Burkina Faso	Drama
+Burundi	Comedy
+Cambodia	Drama
+Cameroon	Drama
+Canada	 Crime
+Cape Verde	Drama
+Cayman Islands	 Drama
+Central African Republic	Action
+Chad	Drama
+Chile	Drama
+China	Science Fiction
+Christmas Island	Documentary
+Cocos  Islands	Documentary
+Colombia	 Thriller
+Comoros	Documentary
+Congo	 War
+Cook Islands	Comedy
+Costa Rica	Drama
+Cote D'Ivoire	Drama
+Croatia	Adventure
+Cuba	 Music
+Cyprus	Crime
+Czech Republic	 War
+Czechoslovakia	Fantasy
+Denmark	 Horror
+Djibouti	 War
+Dominica	Documentary
+Dominican Republic	Action
+East Germany	 Romance
+East Timor	 Family
+Ecuador	 Crime
+Egypt	 Science Fiction
+El Salvador	Thriller
+Equatorial Guinea	Comedy
+Eritrea	Documentary
+Estonia	Family
+Ethiopia	Documentary
+Faeroe Islands	Documentary
+Falkland Islands	Drama
+Fiji	 Action
+Finland	Action
+France	Animation
+French Guiana	Drama
+French Polynesia	Drama
+French Southern Territories	Documentary
+Gabon	Drama
+Gambia	Science Fiction
+Georgia	Drama
+Germany	Action
+Ghana	Documentary
+Gibraltar	Action
+Greece	Drama
+Greenland	Documentary
+Grenada	Documentary
+Guadaloupe	 Action
+Guam	unnamed
+Guatemala	Thriller
+Guinea	Comedy
+Guinea-Bissau	Drama
+Guyana	Drama
+Haiti	 Horror
+Heard and McDonald Islands	Documentary
+Holy See	Documentary
+Honduras	 Thriller
+Hong Kong	 Family
+Hungary	Action
+Iceland	 Action
+India	 Thriller
+Indonesia	 Drama
+Iran	 Comedy
+Iraq	Documentary
+Ireland	 Comedy
+Israel	Thriller
+Italy	 TV Movie
+Jamaica	 Drama
+Japan	Animation
+Jordan	Documentary
+Kazakhstan	 War
+Kenya	Drama
+Kiribati	Documentary
+Kosovo	Drama
+Kuwait	 Action
+Kyrgyz Republic	Drama
+Lao People's Democratic Republic	Drama
+Latvia	 Adventure
+Lebanon	Drama
+Lesotho	Drama
+Liberia	 War
+Libyan Arab Jamahiriya	 Action
+Liechtenstein	 Horror
+Lithuania	 Fantasy
+Luxembourg	 Romance
+Macao	 Action
+Macedonia	 Thriller
+Madagascar	Drama
+Malawi	 History
+Malaysia	 Drama
+Maldives	Thriller
+Mali	Drama
+Malta	 Thriller
+Marshall Islands	Action
+Martinique	 Family
+Mauritania	 Romance
+Mauritius	Action
+Mayotte	Comedy
+Mexico	Comedy
+Micronesia	Documentary
+Moldova	Drama
+Monaco	 Family
+Mongolia	 Drama
+Montenegro	 History
+Montserrat	Documentary
+Morocco	 Drama
+Mozambique	Action
+Myanmar	Drama
+Namibia	 Action
+Nauru	Documentary
+Nepal	 Drama
+Netherlands	 Comedy
+Netherlands Antilles	 Thriller
+New Caledonia	 History
+New Zealand	 Drama
+Nicaragua	Documentary
+Niger	 Drama
+Nigeria	 Action
+Niue	Documentary
+Norfolk Island	Documentary
+North Korea	Horror
+Northern Ireland	Action
+Northern Mariana Islands	 Science Fiction
+Norway	 Thriller
+Oman	Drama
+Pakistan	 Romance
+Palau	Documentary
+Palestinian Territory	Documentary
+Panama	Drama
+Papua New Guinea	Drama
+Paraguay	Horror
+Peru	Comedy
+Philippines	 Romance
+Pitcairn Island	Documentary
+Poland	History
+Portugal	 Adventure
+Puerto Rico	Action
+Qatar	Drama
+Reunion	Drama
+Romania	 Mystery
+Russia	Thriller
+Rwanda	 History
+Samoa	Action
+San Marino	Fantasy
+Sao Tome and Principe	Documentary
+Saudi Arabia	Action
+Senegal	Drama
+Serbia	Drama
+Serbia and Montenegro	 Crime
+Seychelles	 Thriller
+Sierra Leone	Documentary
+Singapore	 Comedy
+Slovakia	 Family
+Slovenia	 Science Fiction
+Solomon Islands	Drama
+Somalia	Drama
+South Africa	Action
+South Georgia and the South Sandwich Islands	Documentary
+South Korea	 Adventure
+South Sudan	Drama
+Soviet Union	Drama
+Spain	 Family
+Sri Lanka	 Drama
+St. Helena	Romance
+St. Kitts and Nevis	Mystery
+St. Lucia	Drama
+St. Pierre and Miquelon	 History
+St. Vincent and the Grenadines	unnamed
+Sudan	Drama
+Suriname	unnamed
+Svalbard & Jan Mayen Islands	Documentary
+Swaziland	Drama
+Sweden	Horror
+Switzerland	 Comedy
+Syrian Arab Republic	 War
+Taiwan	Action
+Tajikistan	Drama
+Tanzania	Music
+Thailand	Romance
+Timor-Leste	Documentary
+Togo	Documentary
+Tokelau	Family
+Tonga	Documentary
+Trinidad and Tobago	Thriller
+Tunisia	Drama
+Turkey	Romance
+Turkmenistan	History
+Turks and Caicos Islands	Horror
+Tuvalu	 Animation
+US Virgin Islands	 Action
+Uganda	Documentary
+Ukraine	Animation
+United Arab Emirates	Horror
+United Kingdom	 Horror
+United States Minor Outlying Islands	 Drama
+United States of America	 Adventure
+Uruguay	 Science Fiction
+Uzbekistan	Action
+Vanuatu	 Drama
+Venezuela	Drama
+Vietnam	 Romance
+Wallis and Futuna Islands	Documentary
+Western Sahara	Documentary
+Yemen	Drama
+Yugoslavia	 War
+Zaire	 Romance
+Zambia	Drama
+Zimbabwe	Drama
+unnamed	Western

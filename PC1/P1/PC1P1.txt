@@ -1,0 +1,5 @@
+Media(vote_average)	2.4797259988983136
+Mediana(vote_average)	0.0
+Desviacion(vote_average)	3.177209342289778
+Mayor(vote_average)	10.0
+Menor(vote_average)	0.0
