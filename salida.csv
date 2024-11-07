@@ -1,0 +1,57 @@
+,Pais,Promedio,Ciudades
+0,Argentina,1200.0,['Ayacucho']
+1,Australia,1705.2631578947369,"['Avalon', 'Brisbane', 'Bunbury', 'Burpengary', 'Gisborne', 'Melbourne', 'Mona Vale', 'Perth', 'Scamander', 'Sydney']"
+2,Austria,1542.857142857143,"['Neustift am Walde', 'WalcProduct3ee']"
+3,Bahrain,1200.0,"[""Al 'Adliyah""]"
+4,Belgium,1500.0,"['Brussels', 'Bruxelles']"
+5,Bermuda,1200.0,['Hamilton']
+6,Brazil,2460.0,['Campinas']
+7,Bulgaria,1200.0,['Zagore']
+8,Canada,1642.1052631578948,"['Calgary', 'Carcross', 'Edmonton', 'Kelowna', 'Mission', 'Montreal', 'North Bay', 'Okotoks', 'Ottawa', 'Powell River', 'Prince Albert', 'Saskatoon', 'Toronto', 'Vancouver']"
+9,Cayman Isls,1200.0,['George Town']
+10,China,1200.0,['Taicheng']
+11,Costa Rica,1200.0,['Santa Barbaraa']
+12,Czech Republic,2000.0,['Prague']
+13,Denmark,1200.0,"['Brondby Strand', 'Charlottenlund', 'Hellerup', 'Helsingor', 'Holte', 'Kjobenhavn', 'Klampenborg', 'Kobenhavn', 'Laasby', 'Lyngby', 'Nakskov', 'Rungsted', 'Soro']"
+14,Dominican Republic,1200.0,['Santo Domingo City']
+15,Finland,1200.0,"['Kuopio', 'Lahti']"
+16,France,1966.6666666666667,"['Biot', 'Ferney-Voltaire', 'Paris', 'Rennes', 'Saint-Cergues']"
+17,Germany,1680.0,"['Braunschweig', 'Donauworth', 'Munich', 'Stuttgart', 'Telgte', 'Wiesbaden']"
+18,Greece,1200.0,['Athina']
+19,Guatemala,1200.0,['Atlantida']
+20,Hong Kong,1200.0,['Hong Kong']
+21,Hungary,1200.0,"['Budaors', 'Chepel', 'Kecskemet']"
+22,Iceland,1200.0,['Thorlakshofn']
+23,India,1200.0,"['Gurgaon', 'Hyderabad']"
+24,Ireland,1426.530612244898,"['Ballincollig', 'Castleknock', 'Clondalkin', 'Clontarf', 'Cork', 'Navan', 'Rathfarnham']"
+25,Israel,1200.0,['Tel Aviv']
+26,Italy,2520.0,"['Cagliari', 'Lipari', 'Milano', 'Ponte San Nicolo']"
+27,Japan,1200.0,"['Setagaya', 'Tokyo']"
+28,Jersey,1200.0,['Gorey']
+29,Kuwait,1200.0,['Mushrif']
+30,Latvia,1200.0,['Vecmilgravis']
+31,Luxembourg,1200.0,['Gasperich']
+32,Malaysia,1200.0,['Kuala Lumpur']
+33,Malta,2400.0,['San Pawl tat-Targa']
+34,Mauritius,3600.0,['Black River']
+35,Moldova,1200.0,['Bubuieci']
+36,Monaco,1200.0,"['Monaco', 'Monte-Carlo']"
+37,Netherlands,2031.8181818181818,"['Amsterdam', 'Den Haag', 'Ede', 'Hilversum', 'Oegstgeest', 'Utrecht']"
+38,New Zealand,1200.0,"['Auckland', 'Hawera', 'New Plymouth City', 'Torbay', 'Waiau Pa', 'Waiwera']"
+39,Norway,1350.0,"['Oslo', 'Stavanger']"
+40,Philippines,1200.0,"['Baluan', 'Borja']"
+41,Poland,1200.0,"['Gdansk', 'Pruszkow']"
+42,Romania,1200.0,['Voluntari']
+43,Russia,3600.0,['Tsaritsyno']
+44,South Africa,2460.0,['Pietermaritzburg']
+45,South Korea,1200.0,['Songnae-dong']
+46,Spain,1400.0,"['Barcelona', 'Gava', 'Madrid']"
+47,Sweden,1753.8461538461538,"['Lidingo', 'Malmo', 'Nacka', 'Norrkoping']"
+48,Switzerland,2133.3333333333335,"['Balgach', 'Begnins', 'Bellinzona', 'Berikon', 'Bern', 'Binningen', 'Carouge', 'Geneve', 'Kloten', 'Langnau', 'Lausanne', 'Trelex', 'Zug', 'Zurich']"
+49,Thailand,2400.0,['Ban Khlong Sip']
+50,The Bahamas,1200.0,"['Freeport City', 'Killarney']"
+51,Turkey,1200.0,"['Beykoz', 'Istanbul', 'Izmir', 'Kemerburgaz', 'Tesvikiye', 'Zekeriyakoy']"
+52,Ukraine,1200.0,"[""Irpin'""]"
+53,United Arab Emirates,2000.0,"['Dubai', 'Jumeira']"
+54,United Kingdom,1440.0,"['Aberdeen', 'Ashford', 'Bolton', 'Edinburgh', 'Guildford', 'Huddersfield', 'Kirriemuir', 'London', 'Milton Keynes', 'New Malden', 'Oxford', 'Penclawdd', 'Reading', 'Tunbridge Wells', 'Watford', 'York']"
+55,United States,1594.6004319654428,"['Alexandria', 'Alpharetta', 'Anchorage', 'Ann Arbor', 'Arlington', 'Atlanta', 'Austin', 'Brooklyn', 'Buffalo Grove', 'Cahaba Heights', 'Cartersburg', 'Centennial', 'Chandler', 'Chicago', 'Cincinnati', 'Clyde Hill', 'Coconut Grove', 'Cranberry Twp', 'Davis', 'Delray Beach', 'Downingtown', 'Eagan', 'Englewood', 'Fayetteville', 'Flossmoor', 'Fort Lauderdale', 'Fresno', 'Hilton Head', 'Houston', 'Huntington Beach', 'Irvine', 'Issaquah', 'Jacksonville', 'Joppa', 'Katy', 'Kearns', 'Keller', 'Killeen', 'Knoxville', 'Lafayette', 'Las Vegas', 'Los Angeles', 'Los Gatos', 'Mableton', 'Mahopac', 'Manhattan', 'Marietta', 'Miami', 'Mililani', 'Minneapolis', 'Morrison', 'Nashville', 'New Rochelle', 'New York', 'Norfolk', 'Olive Branch', 'Orlando', 'Overland', 'Penngrove', 'Pensacola', 'Phoenix', 'Pittsfield', 'Plantation', 'Portola Valley', 'Queen Creek', 'Reston', 'Rochester Hills', 'Rockville', 'Rogers', 'Royal Oak', 'Saint Paul', 'Salt Lake City', 'San Anselmo', 'San Antonio', 'San Diego', 'San Francisco', 'San Jose', 'San Ramon', 'Scottsdale', 'Seattle', 'Sebastopol', 'Senatobia', 'Shreveport', 'Silver Spring', 'Sitka', 'Skaneateles', 'St Thomas', 'Staten Island', 'Sterling', 'Sunnyvale', 'Swampscott', 'Temecula', 'Tenafly', 'Valley Center', 'Vienna', 'Villanova', 'Warwick', 'Washington', 'Wilmington', 'Winter Haven']"
