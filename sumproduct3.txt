@@ -1,0 +1,1 @@
+sumaTotalProduct3	105000

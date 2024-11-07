@@ -1,0 +1,4 @@
+Product	0
+Product1	1016700
+Product2	489600
+Product3	112500

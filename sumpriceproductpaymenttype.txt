@@ -1,0 +1,12 @@
+Product1 Amex	105800
+Product1 Diners	97200
+Product1 Mastercard	280550
+Product1 Visa	533150
+Product2 Amex	75600
+Product2 Diners	21600
+Product2 Mastercard	140400
+Product2 Visa	252000
+Product3 Amex	7500
+Product3 Diners	15000
+Product3 Mastercard	37500
+Product3 Visa	52500
