@@ -1,0 +1,56 @@
+Argentina	1200
+Australia	64800
+Austria	10800
+Bahrain	1200
+Belgium	12000
+Bermuda	1200
+Brazil	12300
+Bulgaria	1200
+Canada	124800
+Cayman Isls	1200
+China	1200
+Costa Rica	1200
+Czech Republic	6000
+Denmark	18000
+Dominican Republic	1200
+Finland	2400
+France	53100
+Germany	42000
+Greece	1200
+Guatemala	1200
+Hong Kong	1200
+Hungary	3600
+Iceland	1200
+India	2400
+Ireland	69900
+Israel	1200
+Italy	37800
+Japan	2400
+Jersey	1200
+Kuwait	1200
+Latvia	1200
+Luxembourg	1200
+Malaysia	1200
+Malta	4800
+Mauritius	3600
+Moldova	1200
+Monaco	2400
+Netherlands	44700
+New Zealand	7200
+Norway	21600
+Philippines	2400
+Poland	2400
+Romania	1200
+Russia	3600
+South Africa	12300
+South Korea	1200
+Spain	16800
+Sweden	22800
+Switzerland	76800
+Thailand	4800
+The Bahamas	2400
+Turkey	7200
+Ukraine	1200
+United Arab Emirates	12000
+United Kingdom	144000
+United States	738300
