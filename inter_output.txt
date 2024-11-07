@@ -1,0 +1,869 @@
+Argentina,Ayacucho,Amex	1
+Australia,Anglesea,Mastercard	1
+Australia,Avalon,Mastercard	1
+Australia,Birkdale,Mastercard	1
+Australia,Brisbane,Visa	2
+Australia,Bunbury,Mastercard	1
+Australia,Burpengary,Visa	1
+Australia,Charlestown,Amex	1
+Australia,Coomera,Mastercard	1
+Australia,Echuca,Visa	1
+Australia,Gisborne,Visa	1
+Australia,Gold Coast,Visa	1
+Australia,Griffith,Mastercard	1
+Australia,Lindfield,Visa	1
+Australia,Lyndoch,Visa	1
+Australia,Melbourne,Amex	1
+Australia,Melbourne,Mastercard	1
+Australia,Melbourne,Visa	3
+Australia,Mona Vale,Visa	1
+Australia,Nerang,Visa	1
+Australia,Parramatta,Visa	1
+Australia,Perth City,Visa	1
+Australia,Perth,Diners	1
+Australia,Perth,Visa	2
+Australia,Rockingham,Mastercard	1
+Australia,Scamander,Visa	1
+Australia,South Melbourne,Mastercard	1
+Australia,Sydney,Mastercard	2
+Australia,Sydney,Visa	1
+Australia,The Grange,Visa	1
+Australia,Vaucluse,Diners	1
+Australia,Warwick,Visa	1
+Australia,Wollongong,Visa	1
+Australia,Worongary,Mastercard	1
+Austria,Altlengbach,Visa	1
+Austria,Inner City,Visa	1
+Austria,Klosterneuburg,Mastercard	1
+Austria,Neustift am Walde,Mastercard	2
+Austria,Vienna,Visa	1
+Austria,WalcProduct3ee,Mastercard	1
+Bahrain,Al 'Adliyah,Visa	1
+Belgium,Antwerpen,Visa	1
+Belgium,Brussels,Mastercard	1
+Belgium,Brussels,Visa	2
+Belgium,Bruxelles,Amex	2
+Belgium,Bruxelles,Visa	1
+Belgium,La Louviere,Visa	1
+Bermuda,Hamilton,Visa	1
+Brazil,Campinas,Mastercard	1
+Brazil,Fortaleza,Mastercard	1
+Brazil,Mafra,Amex	1
+Brazil,Porto Alegre,Visa	1
+Brazil,Vespasiano,Mastercard	1
+Bulgaria,Zagore,Mastercard	1
+Canada,Ajax,Mastercard	1
+Canada,Alcona,Visa	1
+Canada,Alliston,Visa	1
+Canada,Anse Comeau,Visa	1
+Canada,Belleville,Visa	1
+Canada,Burnaby,Diners	1
+Canada,Calgary,Diners	1
+Canada,Calgary,Mastercard	3
+Canada,Calgary,Visa	7
+Canada,Carcross,Mastercard	1
+Canada,Cartierville,Visa	1
+Canada,Comox,Visa	1
+Canada,Cornwall,Visa	1
+Canada,Creemore,Visa	1
+Canada,Edmonton,Amex	1
+Canada,Edmonton,Mastercard	1
+Canada,Edmonton,Visa	1
+Canada,Fort Saint James,Diners	1
+Canada,Guelph,Visa	1
+Canada,Hamilton,Visa	1
+Canada,Ile-Perrot,Mastercard	1
+Canada,Kanata,Visa	1
+Canada,Kelowna,Diners	1
+Canada,Kelowna,Visa	1
+Canada,King City,Visa	1
+Canada,Maple Ridge District Municipality,Visa	1
+Canada,Mission,Mastercard	1
+Canada,Montreal,Diners	2
+Canada,Montreal-Nord,Visa	1
+Canada,Mount Forest,Visa	1
+Canada,North Bay,Visa	2
+Canada,North Vancouver,Visa	1
+Canada,Okotoks,Amex	1
+Canada,Okotoks,Visa	1
+Canada,Orillia,Mastercard	1
+Canada,Ottawa,Amex	1
+Canada,Ottawa,Mastercard	1
+Canada,Ottawa,Visa	2
+Canada,Powell River,Mastercard	1
+Canada,Prince Albert,Diners	1
+Canada,Red Deer,Visa	1
+Canada,Saint Catharines,Visa	1
+Canada,Sainte-Therese-de-Blainville,Visa	1
+Canada,Saskatoon,Amex	1
+Canada,Simcoe,Mastercard	1
+Canada,Three Hills,Mastercard	1
+Canada,Toronto,Diners	1
+Canada,Toronto,Mastercard	1
+Canada,Toronto,Visa	4
+Canada,Tsawwassen,Visa	1
+Canada,Vancouver,Amex	1
+Canada,Vancouver,Diners	1
+Canada,Vancouver,Mastercard	3
+Canada,Vancouver,Visa	3
+Canada,Warwick,Visa	1
+Canada,Waterford,Visa	1
+Canada,Winnipeg,Mastercard	1
+Canada,Yellowknife,Diners	1
+Cayman Isls,George Town,Mastercard	1
+China,Taicheng,Visa	1
+Costa Rica,Santa Barbaraa,Diners	1
+Czech Republic,Hradec Kralove,Visa	1
+Czech Republic,Prague,Visa	1
+Czech Republic,Suchdol,Visa	1
+Denmark,Brondby Strand,Mastercard	1
+Denmark,Charlottenlund,Visa	1
+Denmark,Hellerup,Mastercard	1
+Denmark,Helsingor,Visa	1
+Denmark,Holte,Mastercard	1
+Denmark,Kjobenhavn,Visa	1
+Denmark,Klampenborg,Visa	1
+Denmark,Kobenhavn,Mastercard	1
+Denmark,Laasby,Visa	1
+Denmark,Lyngby,Mastercard	1
+Denmark,Nakskov,Visa	2
+Denmark,Rungsted,Visa	2
+Denmark,Soro,Visa	1
+Dominican Republic,Santo Domingo City,Diners	1
+Finland,Kuopio,Mastercard	1
+Finland,Lahti,Mastercard	1
+France,Aix-en-Provence,Visa	1
+France,Antibes,Visa	1
+France,Arc-et-Senans,Visa	1
+France,Besancon,Diners	1
+France,Biot,Mastercard	1
+France,Brulon,Amex	1
+France,Chamonix-Mont-Blanc,Visa	1
+France,Chatou,Visa	1
+France,Evires,Mastercard	1
+France,Ferney-Voltaire,Amex	1
+France,Ferney-Voltaire,Visa	1
+France,Guer,Amex	1
+France,Hagen,Diners	1
+France,Ornex,Visa	1
+France,Paris,Diners	1
+France,Paris,Visa	5
+France,Rambouillet,Visa	1
+France,Rennes,Visa	1
+France,Roquefort,Diners	1
+France,Rouen,Visa	1
+France,Saint-Cergues,Mastercard	1
+France,Strasbourg,Visa	1
+France,Veigy-Foncenex,Mastercard	1
+Germany,Bergen,Diners	1
+Germany,Berlin,Mastercard	1
+Germany,Braunschweig,Visa	1
+Germany,Donauworth,Visa	1
+Germany,Dresden,Mastercard	1
+Germany,Ehingen an der Donau,Mastercard	1
+Germany,Glan-Munchweiler,Mastercard	1
+Germany,Gries,Visa	1
+Germany,Grossbodungen,Diners	1
+Germany,Hamburg,Mastercard	1
+Germany,Hannover,Mastercard	1
+Germany,Hofheim am Taunus,Mastercard	1
+Germany,Ingelheim-Mitte,Visa	1
+Germany,Ludwigsburg,Visa	1
+Germany,Mettlach,Mastercard	1
+Germany,Munchen,Amex	1
+Germany,Munchengosserstadt,Visa	1
+Germany,Munich,Mastercard	1
+Germany,Munich,Visa	1
+Germany,Oldenburg,Visa	1
+Germany,Stuttgart,Diners	1
+Germany,Stuttgart,Mastercard	1
+Germany,Stuttgart,Visa	1
+Germany,Telgte,Mastercard	1
+Germany,Wiesbaden,Amex	1
+Greece,Athina,Visa	1
+Guatemala,Atlantida,Visa	1
+Hong Kong,Hong Kong,Mastercard	1
+Hungary,Budaors,Visa	1
+Hungary,Chepel,Diners	1
+Hungary,Kecskemet,Mastercard	1
+Iceland,Thorlakshofn,Visa	1
+India,Gurgaon,Amex	1
+India,Hyderabad,Diners	1
+Ireland,Arklow,Visa	1
+Ireland,Baile Atha Bui,Mastercard	1
+Ireland,Ballincollig,Visa	2
+Ireland,Ballyneety,Visa	1
+Ireland,Ballynora,Diners	1
+Ireland,Bandon,Visa	1
+Ireland,Blackrock,Visa	1
+Ireland,Blarney,Visa	1
+Ireland,Cabinteely,Mastercard	1
+Ireland,Castlebar,Visa	1
+Ireland,Castleknock,Visa	3
+Ireland,Clondalkin,Visa	1
+Ireland,Clonmel,Visa	1
+Ireland,Clontarf,Diners	1
+Ireland,Clontarf,Visa	1
+Ireland,Cork,Diners	2
+Ireland,Cork,Visa	2
+Ireland,Drogheda,Visa	1
+Ireland,Dun Laoghaire,Visa	1
+Ireland,Foxrock,Visa	1
+Ireland,Harold's Cross,Mastercard	1
+Ireland,Julianstown,Diners	1
+Ireland,Kilcornan,Visa	1
+Ireland,Killiney,Mastercard	1
+Ireland,Kinsaley,Diners	1
+Ireland,Malahide,Visa	1
+Ireland,Mornington,Visa	1
+Ireland,Mullingar,Visa	1
+Ireland,Navan,Mastercard	1
+Ireland,Newcastle,Visa	1
+Ireland,Newmarket,Mastercard	1
+Ireland,Rathfarnham,Mastercard	1
+Ireland,Rathfarnham,Visa	1
+Ireland,Rathgar,Mastercard	1
+Ireland,Saggart,Visa	1
+Ireland,Sandymount,Mastercard	1
+Ireland,Santry,Visa	1
+Ireland,Shankill,Visa	1
+Ireland,Sneem,Visa	1
+Ireland,Sutton,Diners	1
+Ireland,Thurles,Visa	1
+Ireland,Tramore,Visa	1
+Ireland,Urlingford,Diners	1
+Ireland,Waterford,Visa	1
+Israel,Tel Aviv,Mastercard	1
+Italy,Cagliari,Mastercard	1
+Italy,Firenze,Visa	1
+Italy,Florence,Mastercard	1
+Italy,Grosseto,Visa	1
+Italy,Lipari,Diners	3
+Italy,Lucca,Diners	1
+Italy,Milan,Visa	2
+Italy,Milano,Visa	2
+Italy,Ponte San Nicolo,Amex	1
+Italy,Rome,Visa	1
+Italy,Vicenza,Mastercard	1
+Japan,Setagaya,Visa	1
+Japan,Tokyo,Amex	1
+Jersey,Gorey,Diners	1
+Kuwait,Mushrif,Amex	1
+Latvia,Vecmilgravis,Mastercard	1
+Luxembourg,Gasperich,Visa	1
+Malaysia,Kuala Lumpur,Mastercard	1
+Malta,Nadur,Visa	1
+Malta,San Pawl tat-Targa,Visa	1
+Mauritius,Black River,Visa	1
+Moldova,Bubuieci,Visa	1
+Monaco,Monaco,Visa	1
+Monaco,Monte-Carlo,Visa	1
+Netherlands,Amsterdam,Mastercard	2
+Netherlands,Amsterdam,Visa	1
+Netherlands,Badhoevedorp,Mastercard	1
+Netherlands,Castricum,Visa	1
+Netherlands,Den Haag,Amex	1
+Netherlands,Den Haag,Diners	1
+Netherlands,Den Haag,Mastercard	7
+Netherlands,Ede,Visa	1
+Netherlands,Eindhoven,Amex	1
+Netherlands,Glimmen,Mastercard	1
+Netherlands,Groningen,Mastercard	1
+Netherlands,Hilversum,Visa	1
+Netherlands,Naarden,Amex	1
+Netherlands,Oegstgeest,Mastercard	1
+Netherlands,Utrecht,Mastercard	1
+New Zealand,Auckland,Visa	1
+New Zealand,Hawera,Visa	1
+New Zealand,New Plymouth City,Visa	1
+New Zealand,Torbay,Visa	1
+New Zealand,Waiau Pa,Visa	1
+New Zealand,Waiwera,Visa	1
+Norway,Aardal,Visa	1
+Norway,Aasgaardstrand,Visa	1
+Norway,Bergen,Visa	1
+Norway,Holmenkollen,Visa	1
+Norway,Horten,Visa	1
+Norway,Nordstrand,Diners	1
+Norway,Oslo,Diners	1
+Norway,Oslo,Visa	3
+Norway,Sola,Mastercard	1
+Norway,Stavanger,Mastercard	1
+Norway,Stavanger,Visa	1
+Norway,Stavenger,Mastercard	1
+Norway,Tranby,Visa	1
+Norway,Vossevangen,Visa	1
+Philippines,Baluan,Mastercard	1
+Philippines,Borja,Visa	1
+Poland,Gdansk,Visa	1
+Poland,Pruszkow,Visa	1
+Romania,Voluntari,Mastercard	1
+Russia,Tsaritsyno,Amex	1
+South Africa,Benoni,Mastercard	1
+South Africa,Centurion,Visa	1
+South Africa,Durban,Mastercard	1
+South Africa,Pietermaritzburg,Visa	1
+South Africa,Roodepoort,Mastercard	1
+South Korea,Songnae-dong,Visa	1
+Spain,Alcobendas,Visa	1
+Spain,Barcelona,Amex	1
+Spain,Barcelona,Visa	1
+Spain,Basauri,Visa	1
+Spain,Churra,Visa	1
+Spain,El Escorial,Visa	1
+Spain,Gava,Amex	1
+Spain,La Alberca,Amex	1
+Spain,Madrid,Mastercard	2
+Spain,Madrid,Visa	1
+Spain,Sevilla,Mastercard	1
+Sweden,Danderyd,Amex	1
+Sweden,Djurgarden,Visa	1
+Sweden,Lidingo,Amex	1
+Sweden,Malmo,Visa	1
+Sweden,Nacka,Amex	1
+Sweden,Nacka,Visa	1
+Sweden,Norrkoping,Visa	1
+Sweden,Saltsjobaden,Mastercard	1
+Sweden,Stockholm,Mastercard	1
+Sweden,Stocksund,Visa	1
+Sweden,Taby,Mastercard	1
+Sweden,Tierp,Mastercard	1
+Sweden,Umea,Visa	1
+Switzerland,Anieres,Visa	1
+Switzerland,Aubonne,Mastercard	1
+Switzerland,Baden,Mastercard	1
+Switzerland,Balgach,Mastercard	1
+Switzerland,Basel,Visa	1
+Switzerland,Begnins,Mastercard	1
+Switzerland,Bellinzona,Amex	1
+Switzerland,Berikon,Visa	1
+Switzerland,Bern,Visa	1
+Switzerland,Binningen,Visa	1
+Switzerland,Carouge,Visa	1
+Switzerland,Freienbach,Visa	1
+Switzerland,Geneve,Mastercard	1
+Switzerland,Geneve,Visa	1
+Switzerland,Gingins,Diners	1
+Switzerland,Kloten,Mastercard	1
+Switzerland,Langnau,Visa	1
+Switzerland,Lausanne,Mastercard	1
+Switzerland,Lausanne,Visa	1
+Switzerland,Massagno,Visa	1
+Switzerland,Morges,Mastercard	1
+Switzerland,Neuchatel,Visa	1
+Switzerland,Oberwil,Mastercard	1
+Switzerland,Plan-les-Ouattes,Visa	1
+Switzerland,Regensdorf,Visa	1
+Switzerland,Ruschlikon,Visa	1
+Switzerland,Ruti,Visa	1
+Switzerland,Trelex,Visa	1
+Switzerland,Versoix,Amex	1
+Switzerland,Vesenaz,Mastercard	1
+Switzerland,Villars,Mastercard	1
+Switzerland,Zug,Amex	1
+Switzerland,Zug,Mastercard	1
+Switzerland,Zumikon,Visa	1
+Switzerland,Zurich,Mastercard	1
+Switzerland,Zurich,Visa	1
+Thailand,Ban Khlong Sip,Mastercard	1
+Thailand,Phuket,Visa	1
+The Bahamas,Freeport City,Visa	1
+The Bahamas,Killarney,Visa	1
+Turkey,Beykoz,Visa	1
+Turkey,Istanbul,Visa	1
+Turkey,Izmir,Visa	1
+Turkey,Kemerburgaz,Visa	1
+Turkey,Tesvikiye,Visa	1
+Turkey,Zekeriyakoy,Visa	1
+Ukraine,Irpin',Visa	1
+United Arab Emirates,Abu Dhabi,Diners	1
+United Arab Emirates,Dubai,Visa	3
+United Arab Emirates,Jumeira,Visa	2
+United Kingdom,Abbey Town,Visa	1
+United Kingdom,Aberdeen,Visa	2
+United Kingdom,Ashford,Amex	1
+United Kingdom,Ashford,Visa	1
+United Kingdom,Banbury,Visa	1
+United Kingdom,Basildon,Mastercard	1
+United Kingdom,Basingstoke,Diners	1
+United Kingdom,Belfast,Visa	1
+United Kingdom,Berkeswell,Visa	1
+United Kingdom,Birmingham,Diners	1
+United Kingdom,Bishop Auckland,Visa	1
+United Kingdom,Bishops Stortford,Visa	1
+United Kingdom,Blackpool,Diners	1
+United Kingdom,Bolton,Visa	2
+United Kingdom,Bournemouth,Mastercard	1
+United Kingdom,Brighton,Visa	1
+United Kingdom,Calne,Visa	1
+United Kingdom,Canterbury,Mastercard	1
+United Kingdom,Cardiff,Visa	1
+United Kingdom,Chalfont Saint Peter,Visa	1
+United Kingdom,Cheltenham,Mastercard	1
+United Kingdom,Chichester,Mastercard	1
+United Kingdom,Claygate,Amex	1
+United Kingdom,Cobham,Visa	1
+United Kingdom,Coventry,Mastercard	1
+United Kingdom,Dumbleton,Mastercard	1
+United Kingdom,Edinburgh,Mastercard	1
+United Kingdom,Edinburgh,Visa	2
+United Kingdom,Exeter,Visa	1
+United Kingdom,Gosport,Visa	1
+United Kingdom,Guildford,Visa	1
+United Kingdom,Haverhill,Diners	1
+United Kingdom,Headley,Mastercard	1
+United Kingdom,Helens Bay,Mastercard	1
+United Kingdom,High Wycombe,Diners	1
+United Kingdom,Huddersfield,Diners	1
+United Kingdom,Kemble,Visa	1
+United Kingdom,Kidderminster,Mastercard	1
+United Kingdom,Kirriemuir,Visa	2
+United Kingdom,Leamington Spa,Diners	1
+United Kingdom,Leicester,Visa	1
+United Kingdom,Leighton Buzzard,Visa	1
+United Kingdom,Liverpool,Visa	1
+United Kingdom,London,Amex	3
+United Kingdom,London,Diners	2
+United Kingdom,London,Mastercard	4
+United Kingdom,London,Visa	10
+United Kingdom,Lurgan,Visa	1
+United Kingdom,Maidstone,Visa	1
+United Kingdom,Manchester,Visa	1
+United Kingdom,Milton Keynes,Mastercard	1
+United Kingdom,Milton Keynes,Visa	1
+United Kingdom,New Malden,Visa	1
+United Kingdom,Newburgh,Mastercard	1
+United Kingdom,Newbury,Mastercard	1
+United Kingdom,Oxford,Diners	1
+United Kingdom,Oxford,Mastercard	1
+United Kingdom,Oxford,Visa	1
+United Kingdom,Penclawdd,Visa	1
+United Kingdom,Perth,Visa	1
+United Kingdom,Petworth,Visa	1
+United Kingdom,Reading,Diners	1
+United Kingdom,Reading,Visa	1
+United Kingdom,Redruth,Visa	1
+United Kingdom,Saffron Walden,Diners	1
+United Kingdom,Saint Albans,Visa	1
+United Kingdom,Shenfield,Visa	1
+United Kingdom,Sidcup,Mastercard	1
+United Kingdom,Slough,Visa	1
+United Kingdom,Southampton,Mastercard	1
+United Kingdom,Stockton,Visa	1
+United Kingdom,Stockton-on-Tees,Visa	1
+United Kingdom,Sutton Valence,Visa	1
+United Kingdom,Tunbridge Wells,Mastercard	1
+United Kingdom,Warlingham,Mastercard	1
+United Kingdom,Watford,Diners	1
+United Kingdom,Watford,Mastercard	1
+United Kingdom,Wigan,Visa	1
+United Kingdom,Worcester,Diners	1
+United Kingdom,York,Visa	2
+United States,Accokeek                    ,Amex	1
+United States,Alexandria                  ,Amex	1
+United States,Alexandria                  ,Visa	1
+United States,Allen                       ,Visa	1
+United States,Aloma                       ,Visa	1
+United States,Alpharetta                  ,Amex	1
+United States,Alpharetta                  ,Diners	1
+United States,Alpharetta                  ,Visa	1
+United States,Alpine                      ,Diners	1
+United States,Altadena                    ,Visa	2
+United States,Amelia Island               ,Visa	1
+United States,Anchorage                   ,Amex	1
+United States,Anchorage                   ,Mastercard	1
+United States,Anchorage                   ,Visa	1
+United States,Andover                     ,Mastercard	1
+United States,Ankeny                      ,Visa	1
+United States,Ann Arbor                   ,Visa	1
+United States,Anthem                      ,Amex	1
+United States,Arlington                   ,Amex	2
+United States,Arlington                   ,Mastercard	1
+United States,Arlington                   ,Visa	3
+United States,Ashburn                     ,Visa	1
+United States,Astoria                     ,Mastercard	1
+United States,Atascadero                  ,Amex	1
+United States,Atchison                    ,Visa	1
+United States,Athens                      ,Visa	1
+United States,Atlanta                     ,Amex	2
+United States,Atlanta,Visa	1
+United States,Augusta                     ,Mastercard	1
+United States,Austin                      ,Mastercard	1
+United States,Austin                      ,Visa	3
+United States,Ball Ground                 ,Mastercard	1
+United States,Baltimore                   ,Visa	1
+United States,Baytown                     ,Visa	1
+United States,Beachwood                   ,Mastercard	1
+United States,Bedford Corners             ,Amex	1
+United States,Belgrade                    ,Visa	1
+United States,Belmont                     ,Mastercard	1
+United States,Beverly Hills               ,Visa	1
+United States,Billings                    ,Visa	1
+United States,Birmingham                  ,Visa	1
+United States,Bloomfield                  ,Visa	1
+United States,Bluffton                    ,Amex	1
+United States,Boca Raton                  ,Amex	1
+United States,Boise                       ,Diners	1
+United States,Boyceville                  ,Visa	1
+United States,Brentwood                   ,Visa	1
+United States,Bridgewater                 ,Mastercard	1
+United States,Bristol                     ,Visa	1
+United States,Broadlands                  ,Visa	1
+United States,Brookline                   ,Visa	1
+United States,Brooklyn                    ,Amex	1
+United States,Brooklyn                    ,Diners	2
+United States,Brooklyn                    ,Mastercard	1
+United States,Bryceville                  ,Mastercard	1
+United States,Buffalo                     ,Mastercard	1
+United States,Buffalo Grove               ,Mastercard	2
+United States,Burbank                     ,Diners	1
+United States,Burr Oak                    ,Mastercard	1
+United States,Cahaba Heights              ,Visa	1
+United States,Cambridge                   ,Visa	1
+United States,Cartersburg                 ,Visa	1
+United States,Castle Rock                 ,Mastercard	1
+United States,Centennial                  ,Mastercard	1
+United States,Centennial                  ,Visa	2
+United States,Centerport                  ,Amex	1
+United States,Chadds Ford                 ,Visa	1
+United States,Chandler                    ,Diners	1
+United States,Chandler                    ,Visa	1
+United States,Chaska                      ,Visa	1
+United States,Chelmsford                  ,Mastercard	1
+United States,Chester                     ,Visa	1
+United States,Chicago                     ,Amex	1
+United States,Chicago                     ,Mastercard	1
+United States,Chicago                     ,Visa	3
+United States,Chiefland                   ,Mastercard	1
+United States,Chula Vista                 ,Visa	1
+United States,Cincinnati                  ,Mastercard	1
+United States,Cincinnati                  ,Visa	2
+United States,Clinton                     ,Mastercard	1
+United States,Clyde Hill                  ,Mastercard	1
+United States,Coconut Grove               ,Mastercard	2
+United States,College Park                ,Visa	1
+United States,Columbus                    ,Visa	1
+United States,Coppell                     ,Mastercard	1
+United States,Coral Gables                ,Mastercard	1
+United States,Corbin City                 ,Mastercard	1
+United States,Corrales                    ,Visa	1
+United States,Cos Cob                     ,Visa	1
+United States,Cranberry Twp               ,Amex	1
+United States,Croton On Hudson            ,Visa	1
+United States,Cumming                     ,Amex	1
+United States,Cypress                     ,Mastercard	1
+United States,Dallas                      ,Visa	1
+United States,Dammeron Valley             ,Visa	1
+United States,Danville                    ,Amex	1
+United States,Davis                       ,Visa	1
+United States,Delray Beach                ,Visa	1
+United States,Deptford                    ,Mastercard	1
+United States,Dickerson                   ,Visa	1
+United States,Downey                      ,Visa	1
+United States,Downingtown                 ,Visa	1
+United States,Dryden                      ,Visa	1
+United States,Durham                      ,Visa	1
+United States,Eagan                       ,Visa	1
+United States,Eagle                       ,Visa	1
+United States,Edgewood                    ,Visa	1
+United States,Edinburg                    ,Visa	1
+United States,Ely                         ,Amex	1
+United States,Encinitas                   ,Amex	1
+United States,Engleside                   ,Mastercard	1
+United States,Englewood                   ,Mastercard	1
+United States,Englewood                   ,Visa	1
+United States,Escondido                   ,Visa	1
+United States,Ewa Beach                   ,Mastercard	1
+United States,Fairbanks                   ,Visa	1
+United States,Fairfax                     ,Visa	1
+United States,Fairfield                   ,Mastercard	1
+United States,Falmouth                    ,Visa	1
+United States,Farmingtn Hls               ,Mastercard	1
+United States,Farmington,Visa	1
+United States,Fayetteville                ,Mastercard	1
+United States,Fayetteville                ,Visa	1
+United States,Flossmoor                   ,Visa	1
+United States,Flower Mound                ,Visa	1
+United States,Floyds Knobs                ,Mastercard	1
+United States,Fort Lauderdale             ,Visa	2
+United States,Fort Oglethorpe             ,Diners	1
+United States,Fountain Hls                ,Amex	1
+United States,Fremont                     ,Visa	1
+United States,Fresno                      ,Mastercard	2
+United States,Fresno                      ,Visa	1
+United States,Fullerton                   ,Mastercard	1
+United States,Gainesville                 ,Visa	1
+United States,Genoa                       ,Mastercard	1
+United States,Germantown                  ,Mastercard	1
+United States,Gladwyne                    ,Visa	1
+United States,Glendora                    ,Visa	1
+United States,Glenn Dale                  ,Mastercard	1
+United States,Gonzaga Univ                ,Visa	1
+United States,Great Falls                 ,Mastercard	1
+United States,Great Falls,Visa	1
+United States,Greenville                  ,Mastercard	1
+United States,Hampton                     ,Diners	1
+United States,Haymarket                   ,Mastercard	1
+United States,Hendersonville              ,Mastercard	1
+United States,Herndon                     ,Amex	1
+United States,Hghlnds Ranch               ,Visa	1
+United States,Hilton Head                 ,Mastercard	1
+United States,Hollywood                   ,Mastercard	1
+United States,Holmdel                     ,Amex	1
+United States,Hon                         ,Amex	1
+United States,Hono                        ,Diners	1
+United States,Honolulu                    ,Mastercard	1
+United States,Hoschton                    ,Diners	1
+United States,Houston                     ,Amex	2
+United States,Houston                     ,Mastercard	3
+United States,Houston                     ,Visa	2
+United States,Howell                      ,Mastercard	1
+United States,Humble                      ,Visa	1
+United States,Huntersville                ,Visa	1
+United States,Huntington                  ,Mastercard	1
+United States,Huntington Beach            ,Mastercard	1
+United States,Irvine                      ,Mastercard	1
+United States,Irving                      ,Mastercard	1
+United States,Issaquah                    ,Amex	1
+United States,Issaquah                    ,Visa	2
+United States,Ithaca                      ,Diners	1
+United States,Jacksonville                ,Visa	1
+United States,Jamaica Plain               ,Amex	1
+United States,Jamestown                   ,Visa	1
+United States,Joppa,Visa	2
+United States,Kailua Kona                 ,Visa	1
+United States,Kapaa                       ,Visa	1
+United States,Katy                        ,Visa	1
+United States,Kearns                      ,Visa	1
+United States,Keller                      ,Mastercard	1
+United States,Keller                      ,Visa	1
+United States,Kenmore                     ,Visa	1
+United States,Kennett Square              ,Visa	1
+United States,Killeen                     ,Mastercard	1
+United States,Knoxville                   ,Visa	2
+United States,La Crescenta                ,Mastercard	1
+United States,Ladera Ranch                ,Visa	1
+United States,Lafayette                   ,Mastercard	2
+United States,Lake Mahopac                ,Mastercard	1
+United States,Lake Ronkonkoma,Mastercard	1
+United States,Lakeside                    ,Mastercard	1
+United States,Lakeville                   ,Mastercard	1
+United States,Lakewood Village            ,Visa	1
+United States,Larchmont                   ,Visa	1
+United States,Las Vegas                   ,Amex	2
+United States,Las Vegas                   ,Diners	1
+United States,Las Vegas                   ,Visa	1
+United States,Lebanon                     ,Mastercard	1
+United States,Leesburg                    ,Visa	1
+United States,Lemont                      ,Visa	1
+United States,Lexington                   ,Visa	1
+United States,Libertyville                ,Visa	1
+United States,Lincoln                     ,Mastercard	1
+United States,Lindenhurst                 ,Mastercard	1
+United States,Lititz                      ,Visa	1
+United States,Little Compton              ,Visa	1
+United States,Little Silver               ,Amex	1
+United States,Los Angeles                 ,Amex	2
+United States,Los Angeles                 ,Visa	1
+United States,Los Gatos                   ,Amex	1
+United States,Los Gatos                   ,Visa	1
+United States,Louisville                  ,Mastercard	1
+United States,MT Pleasant                 ,Diners	1
+United States,Mableton                    ,Visa	1
+United States,Madison                     ,Visa	1
+United States,Mahopac                     ,Mastercard	1
+United States,Malibu                      ,Amex	1
+United States,Manhattan                   ,Visa	2
+United States,Manteno                     ,Mastercard	1
+United States,Margate                     ,Visa	1
+United States,Marietta                    ,Amex	2
+United States,Marietta                    ,Visa	2
+United States,Martin                      ,Mastercard	1
+United States,Mashpee                     ,Visa	1
+United States,Mc Lean                     ,Visa	1
+United States,Mechanics Grove             ,Visa	1
+United States,Memphis                     ,Diners	1
+United States,Miami                       ,Amex	1
+United States,Miami                       ,Mastercard	1
+United States,Miami                       ,Visa	1
+United States,Miami Beach                 ,Amex	1
+United States,Mickleton                   ,Visa	1
+United States,Mid City West               ,Amex	1
+United States,Midland Park                ,Mastercard	1
+United States,Milford                     ,Mastercard	1
+United States,Mililani                    ,Amex	1
+United States,Mililani                    ,Mastercard	1
+United States,Minneapolis                 ,Mastercard	1
+United States,Minneapolis                 ,Visa	2
+United States,Montgomery                  ,Mastercard	1
+United States,Morrison                    ,Diners	1
+United States,Morrison                    ,Visa	1
+United States,Morro Bay                   ,Visa	1
+United States,Morton                      ,Visa	1
+United States,N Java                      ,Visa	1
+United States,N Woodmere                  ,Diners	1
+United States,NYC                         ,Mastercard	1
+United States,Naples                      ,Mastercard	1
+United States,Nashville                   ,Mastercard	1
+United States,Nashville                   ,Visa	2
+United States,New Rochelle                ,Mastercard	2
+United States,New York                    ,Diners	3
+United States,New York                    ,Mastercard	3
+United States,New York                    ,Visa	3
+United States,Newton                      ,Visa	1
+United States,Newtown                     ,Visa	1
+United States,Norcross                    ,Visa	1
+United States,Norfolk                     ,Amex	1
+United States,Norfolk                     ,Mastercard	1
+United States,Norfolk                     ,Visa	1
+United States,North Brunswick             ,Visa	1
+United States,North Caldwell              ,Visa	1
+United States,North Eastham               ,Visa	1
+United States,North Tustin                ,Visa	1
+United States,Norwalk                     ,Amex	1
+United States,Oak Park                    ,Visa	1
+United States,Old Greenwich               ,Mastercard	1
+United States,Olive Branch                ,Visa	1
+United States,Ooltewah                    ,Diners	1
+United States,Oostburg                    ,Visa	1
+United States,Orlando                     ,Amex	1
+United States,Ottawa Hills                ,Amex	1
+United States,Overland                    ,Visa	1
+United States,Owensboro                   ,Mastercard	1
+United States,Owings Mills                ,Visa	1
+United States,Pacific Beach               ,Mastercard	1
+United States,Pacific Palisades           ,Mastercard	1
+United States,Parkland                    ,Visa	1
+United States,Parkville                   ,Visa	1
+United States,Pasadena                    ,Mastercard	1
+United States,Pembroke Pines              ,Visa	1
+United States,Penngrove                   ,Amex	1
+United States,Pensacola                   ,Diners	1
+United States,Peoria                      ,Mastercard	1
+United States,Phoenix                     ,Mastercard	1
+United States,Phoenix                     ,Visa	1
+United States,Pittsboro                   ,Visa	1
+United States,Pittsfield                  ,Amex	2
+United States,Plantation                  ,Visa	1
+United States,Pls Vrds Est                ,Visa	1
+United States,Portland                    ,Visa	1
+United States,Portola Valley              ,Mastercard	1
+United States,Potomac Falls               ,Amex	1
+United States,Poughkeepsie                ,Mastercard	1
+United States,Princeton                   ,Mastercard	1
+United States,Princeville                 ,Visa	1
+United States,Queen Creek                 ,Mastercard	2
+United States,Rancho Cordova              ,Visa	1
+United States,Random Lake                 ,Visa	1
+United States,Rayford                     ,Visa	1
+United States,Redondo Beach               ,Amex	1
+United States,Reston                      ,Amex	1
+United States,Reston                      ,Mastercard	1
+United States,Richmond                    ,Visa	1
+United States,Ridgefield                  ,Mastercard	1
+United States,Ringgold                    ,Visa	1
+United States,Riverside                   ,Visa	1
+United States,Roanoke                     ,Mastercard	1
+United States,Rochester                   ,Visa	1
+United States,Rochester Hills             ,Visa	2
+United States,Rock Hill                   ,Visa	1
+United States,Rockville                   ,Amex	1
+United States,Rockville                   ,Visa	1
+United States,Rodeo                       ,Amex	1
+United States,Rogers                      ,Visa	2
+United States,Rowayton                    ,Amex	1
+United States,Royal Oak                   ,Visa	2
+United States,Sacramento                  ,Visa	1
+United States,Saddle Brook                ,Visa	1
+United States,Sag Harbor                  ,Diners	1
+United States,Saint Charles               ,Visa	1
+United States,Saint Paul                  ,Mastercard	1
+United States,Saint Paul                  ,Visa	1
+United States,Saint Petersburg            ,Amex	1
+United States,Salt Lake City              ,Diners	1
+United States,Salt Lake City              ,Visa	1
+United States,Sammamish                   ,Mastercard	1
+United States,San Anselmo                 ,Amex	1
+United States,San Antonio                 ,Diners	1
+United States,San Antonio                 ,Mastercard	1
+United States,San Antonio                 ,Visa	1
+United States,San Carlos                  ,Mastercard	1
+United States,San Diego                   ,Amex	1
+United States,San Diego                   ,Visa	2
+United States,San Francisco               ,Amex	1
+United States,San Francisco               ,Mastercard	1
+United States,San Francisco               ,Visa	1
+United States,San Jose                    ,Mastercard	1
+United States,San Jose                    ,Visa	2
+United States,San Mateo                   ,Amex	1
+United States,San Ramon                   ,Visa	1
+United States,Sandy Plains                ,Amex	1
+United States,Sandy Springs               ,Amex	1
+United States,Santa Monica                ,Diners	1
+United States,Scottsdale                  ,Mastercard	2
+United States,Scottsdale                  ,Visa	1
+United States,Seattle                     ,Amex	1
+United States,Seattle                     ,Visa	5
+United States,Sebastopol                  ,Visa	1
+United States,Senatobia                   ,Visa	1
+United States,Shavano Park                ,Mastercard	1
+United States,Shorewood                   ,Diners	1
+United States,Shreveport                  ,Mastercard	2
+United States,Silver Spring               ,Visa	2
+United States,Simpsonville                ,Visa	1
+United States,Sitka                       ,Visa	1
+United States,Skaneateles                 ,Amex	1
+United States,South Jordan                ,Visa	1
+United States,South Palm Beach            ,Amex	1
+United States,South Waterford             ,Mastercard	1
+United States,Southlake                   ,Visa	1
+United States,Spring Lake Park            ,Visa	1
+United States,St Augustine                ,Visa	1
+United States,St Thomas                   ,Visa	1
+United States,Stamford                    ,Amex	1
+United States,Staten Island               ,Diners	1
+United States,Staten Island               ,Visa	1
+United States,Statesville                 ,Visa	1
+United States,Sterling                    ,Visa	1
+United States,Sugar Land                  ,Visa	1
+United States,Sunnyvale                   ,Visa	2
+United States,Superior                    ,Mastercard	1
+United States,Suwanee                     ,Mastercard	1
+United States,Swampscott                  ,Mastercard	1
+United States,Temecula                    ,Amex	1
+United States,Tenafly                     ,Amex	1
+United States,Tenafly                     ,Diners	1
+United States,Terrell Hills               ,Visa	1
+United States,The Woodlands               ,Mastercard	1
+United States,Trumansburg                 ,Visa	1
+United States,Valley Center               ,Visa	1
+United States,Victor                      ,Diners	1
+United States,Vienna                      ,Visa	2
+United States,Villanova                   ,Amex	1
+United States,Vista                       ,Visa	1
+United States,W Lebanon                   ,Mastercard	1
+United States,Waldorf                     ,Mastercard	1
+United States,Wall                        ,Diners	1
+United States,Walnut Creek                ,Mastercard	1
+United States,Wantagh,Visa	1
+United States,Warwick                     ,Amex	1
+United States,Warwick                     ,Visa	1
+United States,Washington                  ,Amex	1
+United States,Washington                  ,Mastercard	1
+United States,Washington                  ,Visa	1
+United States,Washington Township         ,Mastercard	1
+United States,West Hills                  ,Diners	1
+United States,West Orange                 ,Visa	1
+United States,Westminster                 ,Visa	1
+United States,Weston                      ,Visa	1
+United States,Wheaton                     ,Visa	1
+United States,White House                 ,Mastercard	1
+United States,Wilmington                  ,Mastercard	2
+United States,Winchester                  ,Visa	1
+United States,Winter Haven                ,Diners	1
+United States,Winter Haven                ,Mastercard	1
+United States,Winter Spgs                 ,Amex	1
+United States,Wisconsin Rapids            ,Diners	1
+United States,Woodland Hills              ,Mastercard	1
+United States,Woodsboro                   ,Visa	1
+United States,Yorba Linda                 ,Visa	1
